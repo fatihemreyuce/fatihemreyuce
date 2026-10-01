@@ -81,7 +81,9 @@ through Fibonacci sequences, the golden angle, Vogel's model, and graph theory.
 
 ## 📫 Connect
 
-I'm interested in software development, open-source projects, and building
-products that solve real problems.
+I'm always open to connecting, collaborating, and talking about software,
+technology, and new ideas.
 
-**GitHub:** [@fatihemreyuce](https://github.com/fatihemreyuce)
+[![GitHub](https://img.shields.io/badge/GitHub-fatihemreyuce-181717?style=for-the-badge&logo=github)](https://github.com/fatihemreyuce)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatih_Emre_Yüce-0A66C2?style=for-the-badge&logo=linkedin)](LINKEDIN_URL)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](INSTAGRAM_URL)
