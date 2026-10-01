@@ -85,5 +85,5 @@ I'm always open to connecting, collaborating, and talking about software,
 technology, and new ideas.
 
 [![GitHub](https://img.shields.io/badge/GitHub-fatihemreyuce-181717?style=for-the-badge&logo=github)](https://github.com/fatihemreyuce)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatih_Emre_Yüce-0A66C2?style=for-the-badge&logo=linkedin)]([LINKEDIN_URL](https://www.linkedin.com/in/fatih-emre-y%C3%BCce-3b0538355/?isSelfProfile=true))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatih_Emre_Yüce-0A66C2?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/fatih-emre-y%C3%BCce-3b0538355/?isSelfProfile=true))
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fatih.yc8/)
